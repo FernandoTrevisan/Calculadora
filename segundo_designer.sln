@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "segundo_designer", "segundo_designer\segundo_designer.csproj", "{63F791E6-71CD-47F6-B66F-F45544C6B4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terceiro_designer", "terceiro_designer\terceiro_designer.csproj", "{68383972-EC3A-44C7-9C69-BF4977D85E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F791E6-71CD-47F6-B66F-F45544C6B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F791E6-71CD-47F6-B66F-F45544C6B4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F791E6-71CD-47F6-B66F-F45544C6B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F791E6-71CD-47F6-B66F-F45544C6B4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68383972-EC3A-44C7-9C69-BF4977D85E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68383972-EC3A-44C7-9C69-BF4977D85E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68383972-EC3A-44C7-9C69-BF4977D85E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68383972-EC3A-44C7-9C69-BF4977D85E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB9995E-02F8-4787-8709-3F6F11C4B6AA}
+	EndGlobalSection
+EndGlobal
